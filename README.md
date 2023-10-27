@@ -64,8 +64,8 @@
 <a href="https://github.com/MathewzVk/crowd-funding-dapp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MathewzVk&repo=crowd-funding-dapp&theme=transparent" />
 </a>
-<a href="https://github.com/MathewzVk/hestia-ctf">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MathewzVk&repo=hestia-ctf&theme=transparent" />
+<a href="https://github.com/MathewzVk/3d-react">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MathewzVk&repo=3d-react&theme=transparent" />
 </a>
 <a href="https://github.com/MathewzVk/springdatajpademo-with-jpa-hybernate">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MathewzVk&repo=springdatajpademo-with-jpa-hybernate" />
