@@ -68,7 +68,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MathewzVk&repo=3d-react&theme=transparent" />
 </a>
 <a href="https://github.com/MathewzVk/springdatajpademo-with-jpa-hybernate">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MathewzVk&repo=springdatajpademo-with-jpa-hybernate" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MathewzVk&repo=springdatajpademo-with-jpa-hybernate&theme=transparent" />
 </a>
 </div>
 
