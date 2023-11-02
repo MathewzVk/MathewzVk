@@ -50,7 +50,7 @@
 ## 📈 Profile Stats
 <div align = "center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MathewzVk&theme=transparent&hide_border=true)](https://git.io/streak-stats)           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MathewzVk&layout=compact&theme=transparent&hide_border=true)](https://github.com/MathewzVk/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/demo/?user=MathewzVk&theme=dark&hide_border=false&border_radius=4.5&locale=en&date_format=&mode=daily&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=495&type=svg&background-type=solid&properties=background)](https://git.io/streak-stats)           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MathewzVk&layout=compact&theme=transparent&hide_border=true)](https://github.com/MathewzVk/github-readme-stats)
 
 [![Mathews GitHub stats](https://github-readme-stats.vercel.app/api?username=MathewzVk&show_icons=true&theme=transparent&hide_border=true&hide_title=true)](https://github.com/MathewzVk)
 </p>
